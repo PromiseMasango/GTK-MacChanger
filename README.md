@@ -1,7 +1,7 @@
 ## C Gtk+ MacChanger
 Command-line interface is a thing of the past. MacChanger allows you to change your *MAC address* using GUI. This enables even the novice Linux users to use it.
 
-##Prerequisites
+## Prerequisites
 * git
 * gtk3-dev
 * pkg-config
